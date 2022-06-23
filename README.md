@@ -12,6 +12,8 @@
 Эти данные привязаны к определенному времени, поскольку профиль абонента может меняться с течением времени.
 
 Анализ данных и подготовка - https://github.com/ademyanova25/Megafon_project/blob/master/prepare_and_analisys.ipynb
+
 Выбор модели, построение и подбор параметров - https://github.com/ademyanova25/Megafon_project/blob/master/training_and_predict.ipynb
+
 Презентация - https://github.com/ademyanova25/Megafon_project/blob/master/Project.pptx
 
